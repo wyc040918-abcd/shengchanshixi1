@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.20)  11 JUL 2026 20:31
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.20)  20 JUL 2026 16:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -455,21 +455,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 90.
 [1
 
-]
+] [2]
 
-[2] (./申请表.aux)
+[3] (./申请表.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8144 strings out of 475796
- 232312 string characters out of 5773403
- 662282 words of memory out of 5000000
- 31004 multiletter control sequences out of 15000+600000
+ 8213 strings out of 475796
+ 236509 string characters out of 5773403
+ 681282 words of memory out of 5000000
+ 31073 multiletter control sequences out of 15000+600000
  561595 words of font info for 66 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  93i,8n,111p,462b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 申请表.pdf (2 pages).
+Output written on 申请表.pdf (3 pages).
